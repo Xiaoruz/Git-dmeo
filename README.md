@@ -8,4 +8,9 @@ git-demo练习
     git clone 
     git add
     git commit -m 'msg'
+
+    git add .   //添加所有文件
+
+    git status
+
 ```
